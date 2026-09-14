@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KeepFreshFinalCode</string>
+    <string name="username">Username</string>
+    <string name="required">Required</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="create">Create</string>
+</resources>

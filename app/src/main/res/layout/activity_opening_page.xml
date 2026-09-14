@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OpeningPage">
+
+    <ImageView
+        android:layout_width="222dp"
+        android:layout_height="269dp"
+        android:layout_gravity="center"
+        android:src="@drawable/kflogo"
+        android:layout_marginTop="90dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KeepFresh"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textSize="100px"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Version 2.0"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/beginBtn"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/roundedcorner"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#2A2"
+        android:text="Start"/>
+
+</LinearLayout>
