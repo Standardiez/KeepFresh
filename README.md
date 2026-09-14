@@ -2,6 +2,8 @@
 
 A mobile application that keeps track of goods. It includes features such as image scanning for automation, notes for each good, and categorization of products.
 
+This application is developed using Android Studio.
+
 # Contributors
 
 Camille Mangaser - handled the UI/UX of the application
